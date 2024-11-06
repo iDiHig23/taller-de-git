@@ -1,3 +1,4 @@
 # AUTHORS
 
-* Ismael Díaz Higuera
+* Ismael Díaz Higuera <idiahg064@g.educaand.es>
+* John Doe
